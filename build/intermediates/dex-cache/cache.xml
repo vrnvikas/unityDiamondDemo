@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\UnityARDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="b841bab0bce64a48ffbaa54e846e5e39216f8a6e">
+        <dex dex="F:\UnityARDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_55f84fefdc0dd6bdfc4de7592b0107fca94fcfaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\UnityARDemo\app\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="93fa9a51dbd4f87bb42ef88062eb2deb4ff62c23">
+        <dex dex="F:\UnityARDemo\app\build\intermediates\pre-dexed\debug\unity-classes_b9822b237768e1d06b28064e01116657faec084d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\UnityARDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="2b318db9fbf988fbef0831f3eb7b4e598eef0fe5">
+        <dex dex="F:\UnityARDemo\app\build\intermediates\pre-dexed\debug\instant-run_d803b856e9ebc8a85405046f4aa9ba2c135b9fdc.jar" />
+    </item>
+
+</items>
